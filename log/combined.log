@@ -1,0 +1,47 @@
+[ 06-08-2021 16:01:19 ] :  info Login
+[ 06-08-2021 16:01:21 ] :  info Login
+[ 06-08-2021 16:01:21 ] :  info Login
+[ 06-08-2021 16:15:33 ] :  info Login
+[ 06-08-2021 16:15:41 ] :  info [object Promise]
+[ 06-08-2021 16:15:42 ] :  info [object Promise]
+[ 06-08-2021 16:15:43 ] :  info [object Promise]
+[ 06-08-2021 16:15:55 ] :  error data and hash must be strings
+[ 06-08-2021 16:15:56 ] :  error data and hash must be strings
+[ 06-08-2021 16:16:05 ] :  info [object Object]
+[ 06-08-2021 16:16:13 ] :  info [object Object]
+[ 06-08-2021 16:16:14 ] :  info [object Object]
+[ 06-08-2021 16:16:50 ] :  info [object Object]
+[ 06-08-2021 16:16:51 ] :  info [object Object]
+[ 06-08-2021 16:16:51 ] :  info [object Object]
+[ 06-08-2021 16:16:51 ] :  info [object Object]
+[ 06-08-2021 16:16:58 ] :  error รหัสผ่านไม่ถูกต้อง
+[ 06-08-2021 16:17:00 ] :  error รหัสผ่านไม่ถูกต้อง
+[ 06-08-2021 16:17:12 ] :  error รหัสผ่านไม่ถูกต้อง
+[ 06-08-2021 16:17:13 ] :  error รหัสผ่านไม่ถูกต้อง
+[ 06-08-2021 16:17:21 ] :  error รหัสผ่านไม่ถูกต้อง
+[ 06-08-2021 16:17:21 ] :  error รหัสผ่านไม่ถูกต้อง
+[ 06-08-2021 16:17:22 ] :  error รหัสผ่านไม่ถูกต้อง
+[ 06-08-2021 16:17:49 ] :  error รหัสผ่านไม่ถูกต้อง
+[ 06-08-2021 16:17:50 ] :  error รหัสผ่านไม่ถูกต้อง
+[ 06-08-2021 16:22:06 ] :  error รหัสผ่านไม่ถูกต้อง
+[ 06-08-2021 16:22:06 ] :  error รหัสผ่านไม่ถูกต้อง
+[ 06-08-2021 16:22:07 ] :  error รหัสผ่านไม่ถูกต้อง
+[ 06-08-2021 16:22:07 ] :  error รหัสผ่านไม่ถูกต้อง
+[ 06-08-2021 16:22:08 ] :  error รหัสผ่านไม่ถูกต้อง
+[ 06-08-2021 16:22:08 ] :  error รหัสผ่านไม่ถูกต้อง
+[ 06-08-2021 16:22:08 ] :  error รหัสผ่านไม่ถูกต้อง
+[ 06-08-2021 16:22:17 ] :  error jwt is not defined
+[ 06-08-2021 16:22:17 ] :  error jwt is not defined
+[ 06-08-2021 16:22:41 ] :  error config is not defined
+[ 06-08-2021 16:22:41 ] :  error config is not defined
+[ 06-08-2021 17:03:26 ] :  error config is not defined
+[ 06-08-2021 17:03:27 ] :  error config is not defined
+[ 06-08-2021 17:03:54 ] :  info [object Object]
+[ 06-08-2021 17:03:55 ] :  info [object Object]
+[ 06-08-2021 17:03:56 ] :  info [object Object]
+[ 06-08-2021 17:35:10 ] :  info [object Object]
+[ 06-08-2021 17:35:11 ] :  info [object Object]
+[ 06-08-2021 17:35:12 ] :  info [object Object]
+[ 06-08-2021 17:35:12 ] :  info [object Object]
+[ 06-08-2021 17:35:12 ] :  info [object Object]
+[ 06-08-2021 17:35:13 ] :  info [object Object]
