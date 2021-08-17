@@ -22,3 +22,118 @@
 [ 06-08-2021 16:22:41 ] :  error config is not defined
 [ 06-08-2021 17:03:26 ] :  error config is not defined
 [ 06-08-2021 17:03:27 ] :  error config is not defined
+[ 16-08-2021 17:25:22 ] :  error Cannot set headers after they are sent to the client
+[ 16-08-2021 17:25:22 ] :  error Cannot set headers after they are sent to the client
+[ 16-08-2021 17:26:27 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:26:29 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:26:30 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:26:31 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:26:36 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:26:39 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:27:05 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:27:23 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:27:24 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:27:31 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:27:57 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:27:59 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:28:04 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:30:05 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:30:09 ] :  error string violation: password cannot be an array or an object
+[ 16-08-2021 17:30:14 ] :  error string violation: password cannot be an array or an object
+[ 16-08-2021 17:30:16 ] :  error string violation: password cannot be an array or an object
+[ 16-08-2021 17:32:47 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:33:28 ] :  error invalid input syntax for integer: "2b$11$p3Es9fqVD8sDUKfp4D55I.AWY0REl1zY.CiuJ10QzcRwZikiCJX/q"
+[ 16-08-2021 17:36:48 ] :  error user_name is not defined
+[ 16-08-2021 17:37:02 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:39:24 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:39:36 ] :  error user_name is not defined
+[ 16-08-2021 17:39:50 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:43:32 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:43:33 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:43:38 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:43:57 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:43:58 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:49:52 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:49:53 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 17-08-2021 14:21:56 ] :  error request entity too large
+[ 17-08-2021 14:21:59 ] :  error request entity too large
+[ 17-08-2021 14:22:23 ] :  error request entity too large
+[ 17-08-2021 14:22:25 ] :  error request entity too large
+[ 17-08-2021 14:22:39 ] :  error request entity too large
+[ 17-08-2021 14:22:39 ] :  error request entity too large
+[ 17-08-2021 14:22:40 ] :  error request entity too large
+[ 17-08-2021 14:22:40 ] :  error request entity too large
+[ 17-08-2021 14:22:41 ] :  error request entity too large
+[ 17-08-2021 14:22:41 ] :  error request entity too large
+[ 17-08-2021 14:23:04 ] :  error request entity too large
+[ 17-08-2021 14:23:05 ] :  error request entity too large
+[ 17-08-2021 14:23:05 ] :  error request entity too large
+[ 17-08-2021 14:23:12 ] :  error request entity too large
+[ 17-08-2021 14:23:41 ] :  error request entity too large
+[ 17-08-2021 14:23:41 ] :  error request entity too large
+[ 17-08-2021 14:23:47 ] :  error request entity too large
+[ 17-08-2021 14:23:48 ] :  error request entity too large
+[ 17-08-2021 14:23:48 ] :  error request entity too large
+[ 17-08-2021 14:23:48 ] :  error request entity too large
+[ 17-08-2021 14:24:29 ] :  error request entity too large
+[ 17-08-2021 14:24:29 ] :  error request entity too large
+[ 17-08-2021 14:24:30 ] :  error request entity too large
+[ 17-08-2021 14:24:30 ] :  error request entity too large
+[ 17-08-2021 14:24:31 ] :  error request entity too large
+[ 17-08-2021 14:24:32 ] :  error request entity too large
+[ 17-08-2021 14:24:34 ] :  error request entity too large
+[ 17-08-2021 14:24:35 ] :  error request entity too large
+[ 17-08-2021 14:24:48 ] :  error request entity too large
+[ 17-08-2021 14:24:49 ] :  error request entity too large
+[ 17-08-2021 14:24:50 ] :  error request entity too large
+[ 17-08-2021 14:30:50 ] :  error request entity too large
+[ 17-08-2021 14:30:51 ] :  error request entity too large
+[ 17-08-2021 14:30:52 ] :  error request entity too large
+[ 17-08-2021 14:30:52 ] :  error request entity too large
+[ 17-08-2021 14:30:52 ] :  error request entity too large
+[ 17-08-2021 14:30:54 ] :  error request entity too large
+[ 17-08-2021 14:30:57 ] :  error request entity too large
+[ 17-08-2021 14:30:58 ] :  error request entity too large
+[ 17-08-2021 14:30:58 ] :  error request entity too large
+[ 17-08-2021 14:30:58 ] :  error request entity too large
+[ 17-08-2021 14:30:59 ] :  error request entity too large
+[ 17-08-2021 14:30:59 ] :  error request entity too large
+[ 17-08-2021 14:30:59 ] :  error request entity too large
+[ 17-08-2021 14:31:40 ] :  error request entity too large
+[ 17-08-2021 14:31:41 ] :  error request entity too large
+[ 17-08-2021 14:33:57 ] :  error request entity too large
+[ 17-08-2021 14:33:58 ] :  error request entity too large
+[ 17-08-2021 14:33:59 ] :  error request entity too large
+[ 17-08-2021 14:33:59 ] :  error request entity too large
+[ 17-08-2021 14:34:00 ] :  error request entity too large
+[ 17-08-2021 14:34:00 ] :  error request entity too large
+[ 17-08-2021 14:34:00 ] :  error request entity too large
+[ 17-08-2021 14:34:01 ] :  error request entity too large
+[ 17-08-2021 14:34:29 ] :  error request entity too large
+[ 17-08-2021 14:34:30 ] :  error request entity too large
+[ 17-08-2021 14:34:53 ] :  error request entity too large
+[ 17-08-2021 14:35:02 ] :  error request entity too large
+[ 17-08-2021 14:35:03 ] :  error request entity too large
+[ 17-08-2021 14:35:04 ] :  error request entity too large
+[ 17-08-2021 14:35:05 ] :  error request entity too large
+[ 17-08-2021 14:35:05 ] :  error request entity too large
+[ 17-08-2021 14:35:06 ] :  error request entity too large
+[ 17-08-2021 14:35:20 ] :  error request entity too large
+[ 17-08-2021 14:35:21 ] :  error request entity too large
+[ 17-08-2021 14:35:24 ] :  error request entity too large
+[ 17-08-2021 14:35:36 ] :  error request entity too large
+[ 17-08-2021 14:35:51 ] :  error request entity too large
+[ 17-08-2021 14:35:51 ] :  error request entity too large
+[ 17-08-2021 14:35:52 ] :  error request entity too large
+[ 17-08-2021 14:35:52 ] :  error request entity too large
+[ 17-08-2021 14:35:52 ] :  error request entity too large
+[ 17-08-2021 14:35:52 ] :  error request entity too large
+[ 17-08-2021 14:35:52 ] :  error request entity too large
+[ 17-08-2021 14:35:53 ] :  error request entity too large
+[ 17-08-2021 14:35:53 ] :  error request entity too large
+[ 17-08-2021 14:36:44 ] :  error request entity too large
+[ 17-08-2021 14:36:45 ] :  error request entity too large
+[ 17-08-2021 14:36:45 ] :  error request entity too large
+[ 17-08-2021 14:36:46 ] :  error request entity too large
+[ 17-08-2021 14:36:46 ] :  error request entity too large
+[ 17-08-2021 14:37:17 ] :  error request entity too large

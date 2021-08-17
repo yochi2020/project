@@ -58,3 +58,188 @@
 [ 10-08-2021 17:40:13 ] :  info [object Object]
 [ 10-08-2021 17:40:14 ] :  info [object Object]
 [ 10-08-2021 17:40:14 ] :  info [object Object]
+[ 13-08-2021 13:40:32 ] :  info [object Object]
+[ 13-08-2021 13:40:35 ] :  info Register
+[ 13-08-2021 13:40:39 ] :  info [object Object]
+[ 16-08-2021 14:31:24 ] :  info Register
+[ 16-08-2021 14:31:24 ] :  info Register
+[ 16-08-2021 14:42:21 ] :  info Register
+[ 16-08-2021 14:42:22 ] :  info Register
+[ 16-08-2021 14:42:28 ] :  info Register
+[ 16-08-2021 14:42:29 ] :  info Register
+[ 16-08-2021 14:42:41 ] :  info Register
+[ 16-08-2021 16:48:57 ] :  info [object SequelizeInstance:User]
+[ 16-08-2021 16:49:01 ] :  info [object SequelizeInstance:User]
+[ 16-08-2021 16:49:05 ] :  info [object SequelizeInstance:User]
+[ 16-08-2021 16:49:06 ] :  info [object SequelizeInstance:User]
+[ 16-08-2021 16:49:07 ] :  info [object SequelizeInstance:User]
+[ 16-08-2021 16:49:12 ] :  info [object SequelizeInstance:User]
+[ 16-08-2021 17:20:31 ] :  info 
+[ 16-08-2021 17:20:32 ] :  info 
+[ 16-08-2021 17:24:25 ] :  info [object Promise]
+[ 16-08-2021 17:25:00 ] :  info [object SequelizeInstance:User]
+[ 16-08-2021 17:25:21 ] :  info me lawww
+[ 16-08-2021 17:25:22 ] :  info me lawww
+[ 16-08-2021 17:25:22 ] :  info [object SequelizeInstance:User]
+[ 16-08-2021 17:25:22 ] :  error Cannot set headers after they are sent to the client
+[ 16-08-2021 17:25:22 ] :  info [object SequelizeInstance:User]
+[ 16-08-2021 17:25:22 ] :  error Cannot set headers after they are sent to the client
+[ 16-08-2021 17:26:27 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:26:29 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:26:30 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:26:31 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:26:36 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:26:39 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:27:05 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:27:21 ] :  info [object SequelizeInstance:User]
+[ 16-08-2021 17:27:23 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:27:24 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:27:27 ] :  info [object SequelizeInstance:User]
+[ 16-08-2021 17:27:31 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:27:57 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:27:59 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:28:02 ] :  info [object SequelizeInstance:User]
+[ 16-08-2021 17:28:04 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:30:05 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:30:09 ] :  error string violation: password cannot be an array or an object
+[ 16-08-2021 17:30:14 ] :  error string violation: password cannot be an array or an object
+[ 16-08-2021 17:30:16 ] :  error string violation: password cannot be an array or an object
+[ 16-08-2021 17:32:34 ] :  info [object SequelizeInstance:User]
+[ 16-08-2021 17:32:47 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:32:50 ] :  info [object SequelizeInstance:User]
+[ 16-08-2021 17:33:28 ] :  error invalid input syntax for integer: "2b$11$p3Es9fqVD8sDUKfp4D55I.AWY0REl1zY.CiuJ10QzcRwZikiCJX/q"
+[ 16-08-2021 17:33:43 ] :  info [object SequelizeInstance:User]
+[ 16-08-2021 17:36:48 ] :  error user_name is not defined
+[ 16-08-2021 17:37:03 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:39:24 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:39:36 ] :  error user_name is not defined
+[ 16-08-2021 17:39:48 ] :  info [object SequelizeInstance:User]
+[ 16-08-2021 17:39:50 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:43:32 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:43:33 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:43:37 ] :  info [object SequelizeInstance:User]
+[ 16-08-2021 17:43:38 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:43:56 ] :  info [object SequelizeInstance:User]
+[ 16-08-2021 17:43:57 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:43:58 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:49:50 ] :  info [object SequelizeInstance:User]
+[ 16-08-2021 17:49:52 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:49:53 ] :  error มีชื่อผู้ใช้ในระบบนี้แล้ว
+[ 16-08-2021 17:50:11 ] :  info [object Object]
+[ 16-08-2021 17:50:12 ] :  info [object Object]
+[ 16-08-2021 17:50:13 ] :  info [object Object]
+[ 16-08-2021 17:50:13 ] :  info [object Object]
+[ 17-08-2021 10:56:28 ] :  info upload
+[ 17-08-2021 10:56:29 ] :  info upload
+[ 17-08-2021 14:20:44 ] :  info [object Object]
+[ 17-08-2021 14:20:45 ] :  info [object Object]
+[ 17-08-2021 14:21:20 ] :  info [object Object]
+[ 17-08-2021 14:21:44 ] :  info [object Object]
+[ 17-08-2021 14:21:45 ] :  info [object Object]
+[ 17-08-2021 14:21:46 ] :  info [object Object]
+[ 17-08-2021 14:21:46 ] :  info [object Object]
+[ 17-08-2021 14:21:47 ] :  info [object Object]
+[ 17-08-2021 14:21:47 ] :  info [object Object]
+[ 17-08-2021 14:21:56 ] :  error request entity too large
+[ 17-08-2021 14:21:59 ] :  error request entity too large
+[ 17-08-2021 14:22:23 ] :  error request entity too large
+[ 17-08-2021 14:22:25 ] :  error request entity too large
+[ 17-08-2021 14:22:39 ] :  error request entity too large
+[ 17-08-2021 14:22:39 ] :  error request entity too large
+[ 17-08-2021 14:22:40 ] :  error request entity too large
+[ 17-08-2021 14:22:40 ] :  error request entity too large
+[ 17-08-2021 14:22:41 ] :  error request entity too large
+[ 17-08-2021 14:22:41 ] :  error request entity too large
+[ 17-08-2021 14:23:04 ] :  error request entity too large
+[ 17-08-2021 14:23:05 ] :  error request entity too large
+[ 17-08-2021 14:23:05 ] :  error request entity too large
+[ 17-08-2021 14:23:12 ] :  error request entity too large
+[ 17-08-2021 14:23:41 ] :  error request entity too large
+[ 17-08-2021 14:23:41 ] :  error request entity too large
+[ 17-08-2021 14:23:47 ] :  error request entity too large
+[ 17-08-2021 14:23:48 ] :  error request entity too large
+[ 17-08-2021 14:23:48 ] :  error request entity too large
+[ 17-08-2021 14:23:48 ] :  error request entity too large
+[ 17-08-2021 14:24:29 ] :  error request entity too large
+[ 17-08-2021 14:24:29 ] :  error request entity too large
+[ 17-08-2021 14:24:30 ] :  error request entity too large
+[ 17-08-2021 14:24:30 ] :  error request entity too large
+[ 17-08-2021 14:24:31 ] :  error request entity too large
+[ 17-08-2021 14:24:32 ] :  error request entity too large
+[ 17-08-2021 14:24:34 ] :  error request entity too large
+[ 17-08-2021 14:24:35 ] :  error request entity too large
+[ 17-08-2021 14:24:48 ] :  error request entity too large
+[ 17-08-2021 14:24:49 ] :  error request entity too large
+[ 17-08-2021 14:24:50 ] :  error request entity too large
+[ 17-08-2021 14:25:00 ] :  info req.file
+[ 17-08-2021 14:25:35 ] :  info [object Object]
+[ 17-08-2021 14:25:36 ] :  info [object Object]
+[ 17-08-2021 14:25:43 ] :  info [object Object]
+[ 17-08-2021 14:25:43 ] :  info [object Object]
+[ 17-08-2021 14:25:44 ] :  info [object Object]
+[ 17-08-2021 14:25:44 ] :  info [object Object]
+[ 17-08-2021 14:25:44 ] :  info [object Object]
+[ 17-08-2021 14:30:50 ] :  error request entity too large
+[ 17-08-2021 14:30:51 ] :  error request entity too large
+[ 17-08-2021 14:30:52 ] :  error request entity too large
+[ 17-08-2021 14:30:52 ] :  error request entity too large
+[ 17-08-2021 14:30:52 ] :  error request entity too large
+[ 17-08-2021 14:30:54 ] :  error request entity too large
+[ 17-08-2021 14:30:57 ] :  error request entity too large
+[ 17-08-2021 14:30:58 ] :  error request entity too large
+[ 17-08-2021 14:30:58 ] :  error request entity too large
+[ 17-08-2021 14:30:58 ] :  error request entity too large
+[ 17-08-2021 14:30:59 ] :  error request entity too large
+[ 17-08-2021 14:30:59 ] :  error request entity too large
+[ 17-08-2021 14:30:59 ] :  error request entity too large
+[ 17-08-2021 14:31:40 ] :  error request entity too large
+[ 17-08-2021 14:31:41 ] :  error request entity too large
+[ 17-08-2021 14:33:50 ] :  info [object Object]
+[ 17-08-2021 14:33:51 ] :  info [object Object]
+[ 17-08-2021 14:33:51 ] :  info [object Object]
+[ 17-08-2021 14:33:51 ] :  info [object Object]
+[ 17-08-2021 14:33:52 ] :  info [object Object]
+[ 17-08-2021 14:33:57 ] :  error request entity too large
+[ 17-08-2021 14:33:58 ] :  error request entity too large
+[ 17-08-2021 14:33:59 ] :  error request entity too large
+[ 17-08-2021 14:33:59 ] :  error request entity too large
+[ 17-08-2021 14:34:00 ] :  error request entity too large
+[ 17-08-2021 14:34:00 ] :  error request entity too large
+[ 17-08-2021 14:34:00 ] :  error request entity too large
+[ 17-08-2021 14:34:01 ] :  error request entity too large
+[ 17-08-2021 14:34:29 ] :  error request entity too large
+[ 17-08-2021 14:34:30 ] :  error request entity too large
+[ 17-08-2021 14:34:53 ] :  error request entity too large
+[ 17-08-2021 14:35:02 ] :  error request entity too large
+[ 17-08-2021 14:35:03 ] :  error request entity too large
+[ 17-08-2021 14:35:04 ] :  error request entity too large
+[ 17-08-2021 14:35:05 ] :  error request entity too large
+[ 17-08-2021 14:35:05 ] :  error request entity too large
+[ 17-08-2021 14:35:06 ] :  error request entity too large
+[ 17-08-2021 14:35:20 ] :  error request entity too large
+[ 17-08-2021 14:35:21 ] :  error request entity too large
+[ 17-08-2021 14:35:24 ] :  error request entity too large
+[ 17-08-2021 14:35:27 ] :  info [object Object]
+[ 17-08-2021 14:35:30 ] :  info [object Object]
+[ 17-08-2021 14:35:36 ] :  error request entity too large
+[ 17-08-2021 14:35:51 ] :  error request entity too large
+[ 17-08-2021 14:35:51 ] :  error request entity too large
+[ 17-08-2021 14:35:52 ] :  error request entity too large
+[ 17-08-2021 14:35:52 ] :  error request entity too large
+[ 17-08-2021 14:35:52 ] :  error request entity too large
+[ 17-08-2021 14:35:52 ] :  error request entity too large
+[ 17-08-2021 14:35:52 ] :  error request entity too large
+[ 17-08-2021 14:35:53 ] :  error request entity too large
+[ 17-08-2021 14:35:53 ] :  error request entity too large
+[ 17-08-2021 14:36:44 ] :  error request entity too large
+[ 17-08-2021 14:36:45 ] :  error request entity too large
+[ 17-08-2021 14:36:45 ] :  error request entity too large
+[ 17-08-2021 14:36:46 ] :  error request entity too large
+[ 17-08-2021 14:36:46 ] :  error request entity too large
+[ 17-08-2021 14:37:17 ] :  error request entity too large
+[ 17-08-2021 14:37:28 ] :  info [object Object]
+[ 17-08-2021 14:37:42 ] :  info [object Object]
+[ 17-08-2021 14:38:01 ] :  info [object Object]
+[ 17-08-2021 14:38:08 ] :  info [object Object]
+[ 17-08-2021 14:38:09 ] :  info [object Object]
+[ 17-08-2021 14:38:16 ] :  info [object Object]
